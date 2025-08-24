@@ -7,6 +7,6 @@ Diagram:
 ![IAM Diagram](Images/Diagram/Introduction_IAM_Diagram.png)
 ###
 Steps:
-1. [Sign In to AWS Management Console](IAM/SignIn.md)
+1. [Sign In to AWS Management Console](SignIn.md)
 2. Create IAM
 3. Create Group
