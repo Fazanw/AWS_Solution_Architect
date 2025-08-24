@@ -12,5 +12,8 @@
    - Uncheck the Users must create a new password at the next sign-in (recommended) checkbox.
    - Click the Next button.
 7. In the Set permissions section, keep things as the default. Click on the Next button. ![Set_Permissions](Images/SetPermissions.png)
-8. Review the configuration that you created before. ![Review_Create](Images/ReviewCreate.png)
-9. Find Tags, click the Add New Tag button. ![Review_CreateTags](Images/ReviewCreateTags.png)
+8. Review the configuration that you created before. Find Tags and click the Add New Tag button. ![Review_Create](Images/ReviewCreate.png)
+   - Key: Enter your desired Key (For example Dev-Team)
+   - Value: Enter your desired Value (For example Developers)
+   - Click Create User ![Review_CreateTags](Images/ReviewCreateTags.png)
+9. 
