@@ -4,6 +4,7 @@ This lab will cover the basics of AWS Identity and Access Management (IAM), whic
 ###
 Diagram:
 ![IAM Diagram](Images/IAM/Diagram/Introduction IAM Diagram.png)
+###
 Steps:
 1. Sign In to AWS Management Console
 2. Create IAM
