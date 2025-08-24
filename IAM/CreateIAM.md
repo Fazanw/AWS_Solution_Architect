@@ -17,6 +17,6 @@
    - Value: Enter your desired Value (For example Developers)
    - Click Create User ![Review_CreateTags](Images/ReviewCreateTags.png)
 9. Note: Ignore the above error if it appears while creating Users.
-   - Click Close, then Click on the Return to users list button. ![CreatedUser](Images/CreatedUser.png)
-   - Lastly Click Continue button. ![CreatedUserContinue](Images/CreatedUserContinue.png)
+   - Click Close, then Click on the Return to users list button. ![CreatedUser](Images/UserCreated.png)
+   - Lastly Click Continue button. ![CreatedUserContinue](Images/UserCreatedContinue.png)
 10. User Creation has been Done. ![UserCreatedDone](Images/UserDoneCreated.png)
