@@ -9,4 +9,4 @@ Diagram:
 Steps:
 1. [Sign In to AWS Management Console](SignIn.md)
 2. [Create IAM](CreateIAM.md)
-3. Create Group
+3. [Create Group](CreateGroupIAM.md)
