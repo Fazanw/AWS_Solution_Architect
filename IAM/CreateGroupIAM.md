@@ -7,4 +7,4 @@
    - Add User to the Group: Select Users to be Added to the Group. (For example John) ![UserAdd](Images/UserAdd.png)
    - Attach Permissions Policies: Select the policies to grant access for the Users. (For example AmazonEC2ReadOnlyAccess) ![AddPermission](Images/AddPermission.png)
    - Click Create User Group button. ![CreatedGroup](Images/CreatedGroup.png)
-5. User Group done created. ![CreatedGroupDone](Images/CreateGroupDone.png)
+5. User Group done created. ![CreatedGroupDone](Images/CreatedGroupDone.png)
