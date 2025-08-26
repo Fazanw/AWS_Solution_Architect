@@ -7,4 +7,5 @@ Diagram:
 ###
 Steps:
 1. [Sign In to AWS Management Console](SignIn.md)
-2. [Create a VPC]
+2. [Create a VPC](Create_VPC.md)
+3. 
