@@ -21,3 +21,4 @@
    - Availability Zone: Select your desired Availability Zone (For example No Reference)
    - IPv4 Subnet CIDR block: Select your desired IPv4 CIDR Block (For example 10.0.1.0/24) ![Configure_Subnet](Images/Configure_Private_Subnet.png)
    - Click on Create subnet button. ![Created_Subnet](Images/Created_Private_Subnet.png)
+8. Public and Private Subnets have been Created. ![Created_Subnet_Done](Images/Created_Subnet_Done.png)
