@@ -1,4 +1,4 @@
-#Create Public and Private Subnets
+# Create Public and Private Subnets
 ##
 1. Back to the VPC Dashboard, then navigate to Subnets in the left panel. [VPC_Dashboard](Images/Dashboard_Subnet.png)
 2. Let's create a Public subnet. Click on Create Subnet button. [Create_Subnet](Images/Create_Subnet.png)
