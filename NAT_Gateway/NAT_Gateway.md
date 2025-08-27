@@ -8,4 +8,4 @@ Diagram:
 Steps:
 1. [Sign In to AWS Management Console](SignIn.md)
 2. [Create a VPC](Create_VPC.md)
-3. 
+3. [Create Public and Private Subnets](Create_Subnet.md)
