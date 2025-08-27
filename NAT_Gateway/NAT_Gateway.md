@@ -9,3 +9,5 @@ Steps:
 1. [Sign In to AWS Management Console](SignIn.md)
 2. [Create a VPC](Create_VPC.md)
 3. [Create Public and Private Subnets](Create_Subnet.md)
+4. [Create Internet Gateway](Create_IGW.md)
+5. [Create Public Route Table and Configure](Create_RouteTable.md)
