@@ -22,6 +22,6 @@
      [] Inbound Security Group Rules:
        * Type: SSH
        * Source Type: Anywhere ![Configure_Network](Images/Configure_Network.png)
-   - Keep Rest thing Default and Click on Launch Instance Button. ![Launched_Instance](Images/Launched_Instance.png)
-5. Select View all Instances to View Instance you Created. ![View_Launched_Instance](Images/View_Launched_Instance.png)
+   - Keep Rest thing Default and Click on Launch Instance Button. ![Launched_Instance](Images/Launched_EC2.png)
+5. Select View all Instances to View Instance you Created. ![View_Launched_Instance](Images/View_Launched_EC2.png)
 6. Launch Status: Your instance is now launching, Select the instance and wait for it to change status to Running. ![Running_EC2](Images/Running_EC2.png)
