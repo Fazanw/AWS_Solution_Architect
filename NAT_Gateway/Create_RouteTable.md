@@ -8,9 +8,9 @@
 3. Attach an Internet Gateway to the Route Table.
    - In the Routes Tab, click on Edit Routes. ![Edit_RouteTable](Images/Edit_RouteTable.png)
    - Click Add Route:
-     [] Destination: Enter desired IP Address range (CIDR block) that traffic is intended for (For example 0.0.0.0/0).
-     [] Target: Select Internet Gateway, then choose your desired Internet Gateway (For example MyIGW).
-     [] Click on Save Changes. ![Edited_RouteTable](Images/Edited_RouteTable.png)
+     + Destination: Enter desired IP Address range (CIDR block) that traffic is intended for (For example 0.0.0.0/0).
+     + Target: Select Internet Gateway, then choose your desired Internet Gateway (For example MyIGW).
+     + Click on Save Changes. ![Edited_RouteTable](Images/Edited_RouteTable.png)
 4. Associate Public Subnet to the Route Table:
    - In the Subnet Associations Tab, click on Edit Subnet Associations. ![Attach_SubnetAssociate](Images/Attach_SubnetAssociate.png)
    - Select your desired Subnet (For example MyPublicSubnet).
