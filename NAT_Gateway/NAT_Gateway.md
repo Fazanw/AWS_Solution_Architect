@@ -11,3 +11,5 @@ Steps:
 3. [Create Public and Private Subnets](Create_Subnet.md)
 4. [Create Internet Gateway](Create_IGW.md)
 5. [Create Public Route Table and Configure](Create_RouteTable.md)
+6. [Launch an EC2 Instance in Public Subnet](Launch_Instance_Public_Subnet.md)
+7. [Launch an EC2 Instance in Private Subnet](Launch_Instance_Private_Subnet.md)
