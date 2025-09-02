@@ -13,3 +13,5 @@ Steps:
 5. [Create Public Route Table and Configure](Create_RouteTable.md)
 6. [Launch an EC2 Instance in Public Subnet](Launch_Instance_Public_Subnet.md)
 7. [Launch an EC2 Instance in Private Subnet](Launch_Instance_Private_Subnet.md)
+8. [SSH into Public and Private EC2 Instance and Test Internet Connectivity](SSH_Connect_EC2.md)
+9. [Create a NAT Gateway](Create_NAT_Gateway.md)
