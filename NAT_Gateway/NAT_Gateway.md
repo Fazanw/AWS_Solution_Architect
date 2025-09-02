@@ -15,3 +15,5 @@ Steps:
 7. [Launch an EC2 Instance in Private Subnet](Launch_Instance_Private_Subnet.md)
 8. [SSH into Public and Private EC2 Instance and Test Internet Connectivity](SSH_Connect_EC2.md)
 9. [Create a NAT Gateway](Create_NAT_Gateway.md)
+10. [Update Route table and configure NAT Gateway](Update_RouteTable.md)
+11. [Test Internet connection from Instance inside Private Subnet](Test_Connection_Private.md)
