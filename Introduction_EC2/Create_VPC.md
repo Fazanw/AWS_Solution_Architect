@@ -14,3 +14,4 @@
 6. Create Default VPC,
     - Click on the Actions button and select Create Default VPC. ![Create_Default_VPC](Images/Create_Default_VPC.png)
     - Click on the Create Default VPC button. ![Created_Default_VPC](Images/Created_Default_VPC.png)
+    - Your Default VPC has been created. ![Created_Default_VPC_Done](Images/Created_Default_VPC_Done.png)
