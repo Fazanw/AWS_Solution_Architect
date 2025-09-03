@@ -1,4 +1,4 @@
-#Create IAM Group
+# Create IAM Group
 ##
 1. Back to IAM Dashboard then select the User Groups in the left panel. ![UserGroup](Images/GroupUser.png)
 2. Click on the Create Group button. ![UserAdd](Images/CreateGroup.png)
