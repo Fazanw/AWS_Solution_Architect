@@ -12,3 +12,16 @@
      + Key Pair type: RSA
      + Private Key file format: .pem 
      + Click on the Create Key Pair button. ![Configure_KeyPair](Images/Configure_KeyPair.png)
+   - Edit Network Settings: ![Configure_EC2_C](Images/Configure_EC2_C.png)
+     + Auto-assign public IP: Enable
+     + Select Create new Security group
+     + Security group name: Enter desired name for Security Group (For example MyEC2Server_SG)
+     + Description: Enter desired description for Security Group (For example Security Group to allow traffic to EC2)
+     + Inbound Security Group Rules:
+            - Click on Add Security Group Rule
+            - Type: HTTP
+            - Source Type: Anywhere ![Configure_Network](Images/Configure_Network.png)
+   - Keep Rest thing Default and Click on Launch Instance button. ![Launched_Instance](Images/Launched_EC2.png)
+5. Security Group is a virtual firewall that controls the inbound and outbound traffic for instances in a particular network in a cloud computing environment. Here we have selected SSH and HTTP rules that will allow incoming SSH and HTTP traffic to instances that are associated with the security group.
+6. Select View all Instances to View Instance you Created. ![View_Launched_Instance](Images/View_Launched_EC2.png)
+7. 
