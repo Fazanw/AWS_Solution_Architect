@@ -2,7 +2,7 @@
 ##
 1. Back to AWS Management Console Dashboard, then type EC2 in the Search Bar. ![Search_EC2](Images/Search_EC2.png)
 2. Or click on Services and select EC2 under the Compute section. ![Services_EC2](Images/Services_EC2.png)
-3. In the EC2 dashboard, select the Your VPC option in the left panel. ![Launch_EC2](Images/Launch_EC2.png)
+3. In the EC2 dashboard, select the Instances option in the left panel and click Launch Instances. ![Launch_EC2](Images/Launch_EC2.png)
 4. Configure your Instance:
    - Name: Enter your desired name for your Instance (For example MyPrivateServer)
    - For Amazon Machine Image (AMI): Select your desired Operating System and Version (For example Amazon Linux 2023 kernel-6.1 AMI). ![Configure_EC2_A](Images/Configure_EC2_A.png)
