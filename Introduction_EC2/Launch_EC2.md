@@ -23,5 +23,6 @@
             - Source Type: Anywhere ![Configure_Network](Images/Configure_Network.png)
    - Keep Rest thing Default and Click on Launch Instance button. ![Launched_Instance](Images/Launched_EC2.png)
 5. Security Group is a virtual firewall that controls the inbound and outbound traffic for instances in a particular network in a cloud computing environment. Here we have selected SSH and HTTP rules that will allow incoming SSH and HTTP traffic to instances that are associated with the security group.
-6. Select View all Instances to View Instance you Created. ![View_Launched_Instance](Images/View_Launched_EC2.png)
-7. 
+6. Click View All Instances button to View Instance you Created. ![View_Launched_Instance](Images/View_Launched_EC2.png)
+7. Launch Status: Once you have initiated the instance launch process, Go to the Instances page from the left menu and wait for your EC2 instance to become "Running" while ensuring the health check status is 2/2 checks passed for optimal performance.![Running_EC2](Images/Running_EC2.png)
+8. Select the instance that you have created and copy the public IPv4 address within the details section and paste it into the editor for later use. An example of this process is depicted in the screenshot provided. ![Copy_Public_IP_Address](Images/Copy_Public_IP_Address.png)
