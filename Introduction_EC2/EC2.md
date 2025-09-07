@@ -7,6 +7,6 @@ Diagram:
 1. [Sign In to AWS Management Console](SignIn.md)
 2. [Provision Default VPC](Create_VPC.md)
 3. [Launch an EC2 Instance with desired specifications](Launch_EC2.md)
-4. SSH into EC2 Instance using the Key Pair
-5. Install an Apache Server on the Instance
-6. Create a web page and publish it on the instance
+4. [SSH into EC2 Instance using the Key Pair](SSH_Connect_EC.md)
+5. [Install an Apache Server on the Instance](Apache_Install.md)
+6. [Create a web page and publish it on the instance](Create_Web.md)
