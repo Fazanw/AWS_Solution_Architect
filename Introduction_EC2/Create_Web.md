@@ -18,5 +18,5 @@ systemctl restart httpd
    - Syntax: http://<Your_Public_IPv4_Address>/index.html
    - Sample URL: http://54.147.58.239/index.html
    - Note: If the index.html page is not loading, try removing s from the link, it should be HTTP.
-![Run_Web](Images/Run_Web.png)
-![Run_Web_Done](Images/Run_Web_Done.png)
+![Run_Web_Server](Images/Run_Web_Server.png)
+![Run_Web_Server_Done](Images/Run_Web_Server_Done.png)
