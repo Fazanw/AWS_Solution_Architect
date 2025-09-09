@@ -16,12 +16,12 @@ Public Route Table
      + Target: Select Internet Gateway, then choose your desired Internet Gateway (For example MyInternetGateway).
      + Click on Save Changes. ![Edited_Public_Route_Table](Images/Edited_Public_Route_Table.png)
 5. Associate the Subnet to the Route Table.
-    - In the Subnet Associations Tab, click on Edit Subnet Associations. ![Edit_Associate_Public_Route_Table](Images/Edit_Associate_Public_Route_Table.png)
-    - Select your desired Subnet (For example MyPublicSubnet).
-    - Then click on Save Associations button. ![Edited_Associate_Public_Route_Table](Images/Edited_Associate_Public_Route_Table.png)
+   - In the Subnet Associations Tab, click on Edit Subnet Associations. ![Edit_Associate_Public_Route_Table](Images/Edit_Associate_Public_Route_Table.png)
+   - Select your desired Subnet (For example MyPublicSubnet).
+   - Then click on Save Associations button. ![Edited_Associate_Public_Route_Table](Images/Edited_Associate_Public_Route_Table.png)
 6. Once all the configurations are completed, it should look like below:
-       - Now the Instances launched within MyPublicSubnet will have access to the Internet.
-       - There is another existing route table already available for MyVPC. It is the main route table created at the time the VPC was created. ![Edited_Associate_Public_Route_Table_Done](Images/Edited_Associate_Public_Route_Table_Done.png)
+   - Now the Instances launched within MyPublicSubnet will have access to the Internet.
+   - There is another existing route table already available for MyVPC. It is the main route table created at the time the VPC was created. ![Edited_Associate_Public_Route_Table_Done](Images/Edited_Associate_Public_Route_Table_Done.png)
 ##
 Private Route Table
 ##
@@ -33,9 +33,9 @@ Private Route Table
    - VPC: Select desired VPC (For example MyVPC).
    - Click on Create Route Table. ![Created_Private_Route_Table](Images/Created_Private_Route_Table.png)
 4. Associate the Subnet to the Route Table.
-    - In the Subnet Associations Tab, click on Edit Subnet Associations. ![Edit_Associate_Private_Route_Table](Images/Edit_Associate_Private_Route_Table.png)
-    - Select your desired Subnet (For example MyPrivateSubnet).
-    - Then click on Save Associations button. ![Edited_Associate_Private_Route_Table](Images/Edited_Associate_Private_Route_Table.png)
+   - In the Subnet Associations Tab, click on Edit Subnet Associations. ![Edit_Associate_Private_Route_Table](Images/Edit_Associate_Private_Route_Table.png)
+   - Select your desired Subnet (For example MyPrivateSubnet).
+   - Then click on Save Associations button. ![Edited_Associate_Private_Route_Table](Images/Edited_Associate_Private_Route_Table.png)
 5. Once all the configurations are completed, it should look like below:
-       - Now the Instances launched within MyPrivateSubnet will not have access to the Internet.
-       - There is an existing route table already available for MyVPC. It is the main route table created at the time the VPC was created. ![Edited_Associate_Private_Route_Table_Done](Images/Edited_Associate_Private_Route_Table_Done.png)
+   - Now the Instances launched within MyPrivateSubnet will not have access to the Internet.
+   - There is an existing route table already available for MyVPC. It is the main route table created at the time the VPC was created. ![Edited_Associate_Private_Route_Table_Done](Images/Edited_Associate_Private_Route_Table_Done.png)
