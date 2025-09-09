@@ -12,7 +12,7 @@
 5. Configure the Private subnet:
    - VPC ID: Select your desired VPC (For example MyVPC)
    - Subnet Name: Select your desired name for the Subnet (For example MyPrivateSubnet)
-   - Availability Zone: Select your desired Availability Zone (For example us-east-1a)
+   - Availability Zone: Select your desired Availability Zone (For example us-east-1b)
    - IPv4 Subnet CIDR block: Select your desired IPv4 CIDR Block (For example 10.0.2.0/24) ![Configure_Private_Subnet](Images/Configure_Private_Subnet.png)
    - Click on Create subnet button. ![Created_Private_Subnet](Images/Created_Private_Subnet.png)
 6. Public and Private Subnets have been Created. ![Created_Subnet_Done](Images/Created_Subnet_Done.png)
