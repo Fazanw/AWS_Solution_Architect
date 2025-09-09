@@ -7,7 +7,7 @@
 5. Click on the Create VPC button to create a new VPC. ![Create_VPC](Images/Create_VPC.png)
 6. Configure the VPC:
    - Resource to create: Select VPC Only.
-   - Name Tag: Enter desired name for the VPC.
+   - Name Tag: Enter desired name for the VPC (For example MyVPC)
    - IPv4 CIDR block: Enter desired CIDR range (For example 10.0.0.0/16).
    - IPv6 CIDR block: Select No IPv6 CIDR Block.
    - Tenancy: Default.
