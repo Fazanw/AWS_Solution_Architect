@@ -1,6 +1,6 @@
 # Create and configure Internet Gateway
 ##
-1. 1. Back to the VPC Dashboard, then navigate to Internet Gateways in the left panel. ![Dashboard_Internet_Gateway](Images/Dashboard_Internet_Gateway.png)
+1. Back to the VPC Dashboard, then navigate to Internet Gateways in the left panel. ![Dashboard_Internet_Gateway](Images/Dashboard_Internet_Gateway.png)
 2. Click on the Create Internet Gateway button. ![Create_Internet_Gateway](Images/Create_Internet_Gateway.png)
    - Name tag: Enter desired name for Internet Gateway (For example MyInternetGateway).
    - Click on the Create Internet Gateway button. ![Created_Internet_Gateway](Images/Created_Internet_Gateway.png)
