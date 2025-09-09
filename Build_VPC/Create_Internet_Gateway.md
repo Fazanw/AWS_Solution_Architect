@@ -1,0 +1,11 @@
+# Create and configure Internet Gateway
+##
+1. 1. Back to the VPC Dashboard, then navigate to Internet Gateways in the left panel. ![Dashboard_Internet_Gateway](Images/Dashboard_Internet_Gateway.png)
+2. Click on the Create Internet Gateway button. ![Create_Internet_Gateway](Images/Create_Internet_Gateway.png)
+   - Name tag: Enter desired name for Internet Gateway (For example MyInternetGateway).
+   - Click on the Create Internet Gateway button. ![Created_Internet_Gateway](Images/Created_Internet_Gateway.png)
+3. Internet Gateway has been created. Then Attach the Internet Gateway to the VPC. 
+   - Click on Actions, then Select Attach to VPC. ![Attach_Internet_Gateway](Images/Attach_Internet_Gateway.png)
+   - VPC: Select desired VPC (For example MyVPC).
+   - Click on Attach internet gateway. ![Attached_Internet_Gateway](Images/Attached_Internet_Gateway.png)
+4. Internet Gateway has been attached to the VPC. ![Attached_Internet_Gateway_Done](Images/Attached_Internet_Gateway_Done.png)
